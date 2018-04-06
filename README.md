@@ -1,5 +1,7 @@
 # CPE 315 Lab 1 -- Piku
 
+Name: Roshan Prabhakar
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
