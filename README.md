@@ -1,7 +1,8 @@
 # CPE 315 Lab 1 -- Piku
 
-Name: Roshan Prabhakar
-Status: Completed
+Name: **Roshan Prabhakar**
+
+Status: **Completed**
 
 ### Usage:
 ```
