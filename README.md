@@ -8,3 +8,10 @@ Status: Completed
 gcc -o piku piku.s or make
 ./piku
 ```
+
+### Expected Output:
+```
+Pi 3 comes with wifi
+It is great for prototyping
+Especially IOT
+```
